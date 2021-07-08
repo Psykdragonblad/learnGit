@@ -1,2 +1,2 @@
 Primeiro texto na branch master
-testando para ver o funcionamento da tag
+testando para ver o funcionamento da tag vs-1.2
